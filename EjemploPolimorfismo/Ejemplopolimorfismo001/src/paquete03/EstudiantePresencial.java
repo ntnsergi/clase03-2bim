@@ -30,7 +30,7 @@ public class EstudiantePresencial extends Estudiante{
     @Override
     public void calcularMatricula(){
         matricula = numeroCreditos * costoCredito;
-    }
+    } 
 
     //  Métodos obtener para los datos o atributos de la clase
     // 5. Método obtenerNumeroCreditos() : Entero
